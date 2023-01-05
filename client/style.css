@@ -149,6 +149,6 @@ form img {
   height: 30px;
 }
 
-::placeholder{
+textarea::placeholder{
   color: #fff;
 }
